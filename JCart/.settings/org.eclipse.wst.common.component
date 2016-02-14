@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="JCart">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/jcart-admin/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/jcart-core/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/jcart-core/src/test/java"/>
+        <property name="context-root" value="JCart"/>
+        <property name="java-output-path" value="/JCart/bin"/>
+    </wb-module>
+</project-modules>
